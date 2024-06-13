@@ -2,7 +2,7 @@ export default function MainNav() {
   return (
     <>
       <header>
-        <nav className="bg-white dark:bg-gray-900 fixed w-full z-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600 max-w-[1440px]">
+        <nav className="bg-white dark:bg-gray-900 fixedz-20 top-0 start-0 border-b border-gray-200 dark:border-gray-600 ">
           <div className="flex flex-wrap items-center justify-between mx-auto p-4">
             <a
               href="https://www.bangloss.com/"
